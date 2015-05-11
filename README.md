@@ -13,3 +13,5 @@ An assemblage of delightfully tiny and/or absurd npm packages
 - [max-safe-integer](https://github.com/git+https:/): ES6 Number.MAX_SAFE_INTEGER ponyfill
 - [no-op](https://github.com/mattdesl/no-op): one no-op function to rule them all
 - [schemeless](https://github.com/zeke/schemeless): Remove the parts of URLs that humans don&#39;t really need to see
+- [superheroes](https://github.com/sindresorhus/superheroes): Get superhero names
+- [supervillains](https://github.com/sindresorhus/supervillains): Get supervillain names
