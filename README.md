@@ -4,7 +4,7 @@ An assemblage of delightfully tiny and/or absurd npm packages
 
 - [alphabet](https://github.com/jonschlinkert/alphabet): The english alphabet as a string or array, upper and lowercase.
 - [animals](https://github.com/boennemann/animals): Get animals
-- [aristotle](git+https://github.com/zeke/npm-collection-minimalism.git): turns your browsers cursor into aristotle the cat if you enter the konami code
+- [aristotle](https://github.com/maxogden/aristotle): turns your browsers cursor into aristotle the cat if you enter the konami code
 - [cat-names](https://github.com/sindresorhus/cat-names): Get popular cat names
 - [connectivity](https://github.com/feross/connectivity): Detect if the network is up (do we have connectivity?)
 - [cool-ascii-faces](https://github.com/maxogden/cool-ascii-faces): get some cool ascii faces ヽ༼ຈل͜ຈ༽ﾉ
